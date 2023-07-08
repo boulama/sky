@@ -133,4 +133,11 @@ return [
      * \LaraZeus\Sky\Classes\MarkdownEditor::class,
      */
     'editor' => \LaraZeus\Sky\Classes\TinyEditor::class,
+    
+    /*
+    * upload path
+    */
+    'pages_upload_path' => 'pages',
+    'blog_upload_path' => 'blog',
+    
 ];
